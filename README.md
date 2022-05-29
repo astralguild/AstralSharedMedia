@@ -1,4 +1,4 @@
-# AstralSharedMedia
+# Astral SharedMedia
 
 Astral SharedMedia is a collection of various sounds and images, mostly for the use of BigWigs, DBM, and WeakAuras alerts. 
 
