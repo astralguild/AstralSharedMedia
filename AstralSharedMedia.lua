@@ -62,6 +62,7 @@ LSM:Register("sound", "|cffa335eePoggers|r", [[Interface\Addons\AstralSharedMedi
 LSM:Register("sound", "|cffa335eeBronCena|r", [[Interface\Addons\AstralSharedMedia\sound\broncena.ogg]])
 LSM:Register("sound", "|cffa335eeBoom Headshot|r", [[Interface\Addons\AstralSharedMedia\sound\Boom Headshot.ogg]])
 LSM:Register("sound", "|cffa335eeTroy & Abed|r", [[Interface\Addons\AstralSharedMedia\sound\troyabed.ogg]])
+LSM:Register("sound", "|cffa335eeMorbin Time|r", [[Interface\Addons\AstralSharedMedia\sound\morbintime.ogg]])
 
 -- Misc
 LSM:Register("sound", "|cffa335eeAnime Moan|r", [[Interface\Addons\AstralSharedMedia\sound\animemoan.ogg]])
