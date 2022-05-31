@@ -1,4 +1,4 @@
-## Interface: 90200
+## Interface: 90205
 ## Title: |cffa335eeAstral|r |cffb4b4b4Shared|r|cffffffffMedia|r
 ## Author: Astral
 ## Version: 1.1
