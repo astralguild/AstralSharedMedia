@@ -1,7 +1,8 @@
-## Interface: 90200
+## Interface: 90205
 ## Title: |cffa335eeAstral|r |cffb4b4b4Shared|r|cffffffffMedia|r
 ## Author: Astral
 ## Version: 1.3
+## X-Curse-Project-ID: 628753
 
 Libs\LibStub\LibStub.lua
 Libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
