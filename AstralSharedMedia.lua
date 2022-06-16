@@ -96,7 +96,6 @@ LSM:Register("sound", "|cffa335eeSonic Extra Life|r", [[Interface\Addons\AstralS
 LSM:Register("sound", "|cffa335eeFalcon Punch|r", [[Interface\Addons\AstralSharedMedia\sound\falconpunch.ogg]])
 LSM:Register("sound", "|cffa335eeFatality|r", [[Interface\Addons\AstralSharedMedia\sound\fatality.ogg]])
 LSM:Register("sound", "|cffa335eeHadouken|r", [[Interface\Addons\AstralSharedMedia\sound\hadouken.ogg]])
-LSM:Register("sound", "|cffa335eeHey Listen|r", [[Interface\Addons\AstralSharedMedia\sound\navi-heylisten.ogg]])
 LSM:Register("sound", "|cffa335eePikachu|r", [[Interface\Addons\AstralSharedMedia\sound\pikachu-thunderbolt.ogg]])
 LSM:Register("sound", "|cffa335eeZugZug Kick", [[Interface\Addons\AstralSharedMedia\sound\ZugZugKick.ogg]])
 LSM:Register("sound", "|cffa335eeHello There|r", [[Interface\Addons\AstralSharedMedia\sound\hellothere.ogg]])
@@ -162,6 +161,30 @@ LSM:Register("sound", "|cffa335eeSMW Yoshi Ow|r", [[Interface\Addons\AstralShare
 
 -- Super Mario 64
 
+-- Zelda Breath of the Wild
+LSM:Register("sound", "|cffa335eeZeldaBOTW Heart Container|r", [[Interface\Addons\AstralSharedMedia\sound\BOTW_Fanfare_HeartContainer.ogg]]) 
+LSM:Register("sound", "|cffa335eeZeldaBOTW Item|r", [[Interface\Addons\AstralSharedMedia\sound\BBOTW_Fanfare_Item.ogg]]) 
+LSM:Register("sound", "|cffa335eeZeldaBOTW Item Small|r", [[Interface\Addons\AstralSharedMedia\sound\BOTW_Fanfare_SmallItem.ogg]]) 
+LSM:Register("sound", "|cffa335eeZeldaBOTW Spirit Orb|r", [[Interface\Addons\AstralSharedMedia\sound\BOTW_Fanfare_SpiritOrb.ogg]]) 
+LSM:Register("sound", "|cffa335eeZeldaBOTW Secret|r", [[Interface\Addons\AstralSharedMedia\sound\BOTW_Secret.ogg]]) 
+
+-- Zelda Wind Waker
+LSM:Register("sound", "|cffa335eeZeldaWW Save|r", [[Interface\Addons\AstralSharedMedia\sound\WW_PictoBox_Save.ogg]]) 
+
+-- Zelda Ocarina of Time
+LSM:Register("sound", "|cffa335eeZeldaOOT Hey Listen|r", [[Interface\Addons\AstralSharedMedia\sound\navi-heylisten.ogg]])
+LSM:Register("sound", "|cffa335eeZeldaOOT Rooster|r", [[Interface\Addons\AstralSharedMedia\sound\OOT_6amRooster.ogg]]) 
+LSM:Register("sound", "|cffa335eeZeldaOOT Item 1|r", [[Interface\Addons\AstralSharedMedia\sound\OOT_Get_SmallItem1.ogg]]) 
+LSM:Register("sound", "|cffa335eeZeldaOOT Item 2|r", [[Interface\Addons\AstralSharedMedia\sound\OOT_Get_SmallItem2.ogg]]) 
+LSM:Register("sound", "|cffa335eeZeldaOOT Token|r", [[Interface\Addons\AstralSharedMedia\sound\OOT_GoldSkulltula_Token.ogg]]) 
+LSM:Register("sound", "|cffa335eeZeldaOOT Hello|r", [[Interface\Addons\AstralSharedMedia\sound\OOT_Navi_Hello1.ogg]]) 
+LSM:Register("sound", "|cffa335eeZeldaOOT Hey|r", [[Interface\Addons\AstralSharedMedia\sound\OOT_Navi_Hey1.ogg]]) 
+LSM:Register("sound", "|cffa335eeZeldaOOT Listen|r", [[Interface\Addons\AstralSharedMedia\sound\OOT_Navi_Listen1.ogg]]) 
+LSM:Register("sound", "|cffa335eeZeldaOOT Look|r", [[Interface\Addons\AstralSharedMedia\sound\OOT_Navi_Look1.ogg]]) 
+LSM:Register("sound", "|cffa335eeZeldaOOT Watchout|r", [[Interface\Addons\AstralSharedMedia\sound\OOT_Navi_WatchOut1.ogg]]) 
+LSM:Register("sound", "|cffa335eeZeldaOOT Start|r", [[Interface\Addons\AstralSharedMedia\sound\OOT_PressStart.ogg]]) 
+LSM:Register("sound", "|cffa335eeZeldaOOT Watchout|r", [[Interface\Addons\AstralSharedMedia\sound\OOT_Navi_WatchOut1.ogg]]) 
+LSM:Register("sound", "|cffa335eeZeldaOOT Correct|r", [[Interface\Addons\AstralSharedMedia\sound\OOT_Song_Correct.ogg]]) 
 
 -- Overwatch
 LSM:Register("sound", "|cffa335eeOW DVa Nerf This|r", [[Interface\Addons\AstralSharedMedia\sound\ow_dva_nerf_this.ogg]]) 
