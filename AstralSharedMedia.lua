@@ -64,6 +64,11 @@ LSM:Register("sound", "|cffa335eeBoom Headshot|r", [[Interface\Addons\AstralShar
 LSM:Register("sound", "|cffa335eeTroy & Abed|r", [[Interface\Addons\AstralSharedMedia\sound\troyabed.ogg]])
 LSM:Register("sound", "|cffa335eeMorbin Time|r", [[Interface\Addons\AstralSharedMedia\sound\morbintime.ogg]])
 LSM:Register("sound", "|cffa335eeWhite Monster Can|r", [[Interface\Addons\AstralSharedMedia\sound\WhiteMonsterOpen.ogg]])
+LSM:Register("sound", "|cffa335eeAnother One|r", [[Interface\Addons\AstralSharedMedia\sound\another-one_dPvHt2Z.ogg]]) 
+LSM:Register("sound", "|cffa335eeBoom Headshot|r", [[Interface\Addons\AstralSharedMedia\sound\boomheadshot.swf.ogg]]) 
+LSM:Register("sound", "|cffa335eeGod Damn|r", [[Interface\Addons\AstralSharedMedia\sound\god-damn-1.ogg]]) 
+LSM:Register("sound", "|cffa335eeHa Gay|r", [[Interface\Addons\AstralSharedMedia\sound\ha-gay.ogg]]) 
+LSM:Register("sound", "|cffa335eeYeet|r", [[Interface\Addons\AstralSharedMedia\sound\yeet.ogg]]) 
 
 -- Misc
 LSM:Register("sound", "|cffa335eeAnime Moan|r", [[Interface\Addons\AstralSharedMedia\sound\animemoan.ogg]])
@@ -83,6 +88,17 @@ LSM:Register("sound", "|cffa335eeZoidberg|r", [[Interface\Addons\AstralSharedMed
 LSM:Register("sound", "|cffa335eePHub Intro|r", [[Interface\Addons\AstralSharedMedia\sound\phub-intro.ogg]])
 LSM:Register("sound", "|cffa335eeCrabRave|r", [[Interface\Addons\AstralSharedMedia\sound\crab_rave.ogg]])
 LSM:Register("sound", "|cffa335eeDoubletime|r", [[Interface\Addons\AstralSharedMedia\sound\doubletime.ogg]]) 
+LSM:Register("sound", "|cffa335eeAnime Wow|r", [[Interface\Addons\AstralSharedMedia\sound\anime-wow-sound-effect.ogg]]) 
+LSM:Register("sound", "|cffa335eeChewbacca|r", [[Interface\Addons\AstralSharedMedia\sound\chewbacca.swf.ogg]]) 
+LSM:Register("sound", "|cffa335eeDBZ Teleport|r", [[Interface\Addons\AstralSharedMedia\sound\dbz-teleport.ogg]]) 
+LSM:Register("sound", "|cffa335eeSimpsons Doh|r", [[Interface\Addons\AstralSharedMedia\sound\doh.swf.ogg]]) 
+LSM:Register("sound", "|cffa335eeLaw and Order|r", [[Interface\Addons\AstralSharedMedia\sound\dun_dun_1.ogg]]) 
+LSM:Register("sound", "|cffa335eeLightsaber|r", [[Interface\Addons\AstralSharedMedia\sound\lightsaber_02.ogg]]) 
+LSM:Register("sound", "|cffa335eeMy Man|r", [[Interface\Addons\AstralSharedMedia\sound\my-man.ogg]]) 
+LSM:Register("sound", "|cffa335eeDolphin|r", [[Interface\Addons\AstralSharedMedia\sound\spongebob-dolphin-censor.ogg]]) 
+LSM:Register("sound", "|cffa335eeSurprise MFer|r", [[Interface\Addons\AstralSharedMedia\sound\surprise-motherfucker-sound.ogg]]) 
+LSM:Register("sound", "|cffa335eeSimpsons Ha-Ha|r", [[Interface\Addons\AstralSharedMedia\sound\the-simpsons-nelsons-haha.ogg]]) 
+LSM:Register("sound", "|cffa335eeHallelujah|r", [[Interface\Addons\AstralSharedMedia\sound\hallelujahshort.swf.ogg]]) 
 
 -- Misc Video Game Sounds
 LSM:Register("sound", "|cffa335eePacman Waka|r", [[Interface\Addons\AstralSharedMedia\sound\pacman-wakawaka.ogg]])
@@ -99,6 +115,9 @@ LSM:Register("sound", "|cffa335eeHadouken|r", [[Interface\Addons\AstralSharedMed
 LSM:Register("sound", "|cffa335eePikachu|r", [[Interface\Addons\AstralSharedMedia\sound\pikachu-thunderbolt.ogg]])
 LSM:Register("sound", "|cffa335eeZugZug Kick", [[Interface\Addons\AstralSharedMedia\sound\ZugZugKick.ogg]])
 LSM:Register("sound", "|cffa335eeHello There|r", [[Interface\Addons\AstralSharedMedia\sound\hellothere.ogg]])
+LSM:Register("sound", "|cffa335eeBarrel Roll|r", [[Interface\Addons\AstralSharedMedia\sound\barrelroll.swf.ogg]]) 
+LSM:Register("sound", "|cffa335eeMinecraft Hurt|r", [[Interface\Addons\AstralSharedMedia\sound\classic_hurt.ogg]]) 
+LSM:Register("sound", "|cffa335eeMSG Alert|r", [[Interface\Addons\AstralSharedMedia\sound\mgs_alert_sound.ogg]]) 
 
 -- Super Mario Bros
 LSM:Register("sound", "|cffa335eeSMB 1-UP|r", [[Interface\Addons\AstralSharedMedia\sound\smb_1-up.ogg]]) 
