@@ -226,6 +226,14 @@ LSM:Register("sound", "|cffa335eeOW Widow Take Cover|r", [[Interface\Addons\Astr
 LSM:Register("sound", "|cffa335eeOW Widow Watch Your Step|r", [[Interface\Addons\AstralSharedMedia\sound\ow_widow_watch_your_step.ogg]]) 
 LSM:Register("sound", "|cffa335eeOW Zenyatta Time Grows Short|r", [[Interface\Addons\AstralSharedMedia\sound\ow_zenyatta_time_grows_short.ogg]]) 
 
+-- Metal Gear Solid 2
+LSM:Register("sound", "|cffa335eeMSG Codec Call|r", [[Interface\Addons\AstralSharedMedia\sound\codeccall.ogg]]) 
+LSM:Register("sound", "|cffa335eeMSG Codec Open|r", [[Interface\Addons\AstralSharedMedia\sound\codecopen.ogg]]) 
+LSM:Register("sound", "|cffa335eeMSG Codec Over|r", [[Interface\Addons\AstralSharedMedia\sound\codecover.ogg]]) 
+LSM:Register("sound", "|cffa335eeMSG Door Buzz|r", [[Interface\Addons\AstralSharedMedia\sound\doorbuzz.ogg]]) 
+LSM:Register("sound", "|cffa335eeMSG Found Alert|r", [[Interface\Addons\AstralSharedMedia\sound\found.ogg]]) 
+LSM:Register("sound", "|cffa335eeMSG Item Used|r", [[Interface\Addons\AstralSharedMedia\sound\itemused.ogg]]) 
+
 -- Ayaya
 LSM:Register("sound", "|cffa335eeAyaya!|r", [[Interface\Addons\AstralSharedMedia\sound\Ayaya!.ogg]]) 
 LSM:Register("sound", "|cffa335eeAyaya!Ayaya!|r", [[Interface\Addons\AstralSharedMedia\sound\Ayaya!Ayaya!.ogg]]) 
