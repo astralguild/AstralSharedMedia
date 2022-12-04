@@ -1,7 +1,7 @@
 ## Interface: 100002
 ## Title: |cffa335eeAstral|r |cffb4b4b4Shared|r|cffffffffMedia|r
 ## Author: Astral
-## Version: 1.8
+## Version: 1.9
 ## X-Curse-Project-ID: 628753
 ## X-Wago-ID: LvNA0BGo
 
