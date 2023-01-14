@@ -118,6 +118,7 @@ LSM:Register("sound", "|cffa335eeHello There|r", [[Interface\Addons\AstralShared
 LSM:Register("sound", "|cffa335eeBarrel Roll|r", [[Interface\Addons\AstralSharedMedia\sound\barrelroll.swf.ogg]]) 
 LSM:Register("sound", "|cffa335eeMinecraft Hurt|r", [[Interface\Addons\AstralSharedMedia\sound\classic_hurt.ogg]]) 
 LSM:Register("sound", "|cffa335eeMGS Alert|r", [[Interface\Addons\AstralSharedMedia\sound\mgs_alert_sound.ogg]]) 
+LSM:Register("sound", "|cffa335eeMSG Alert|r", [[Interface\Addons\AstralSharedMedia\sound\mgs_alert_sound.ogg]]) -- Keep for backwards compatibility
 
 -- Super Mario Bros
 LSM:Register("sound", "|cffa335eeSMB 1-UP|r", [[Interface\Addons\AstralSharedMedia\sound\smb_1-up.ogg]]) 
