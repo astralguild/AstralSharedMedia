@@ -1,6 +1,6 @@
-## Interface: 100002
-## Title: |cffa335eeAstral|r |cffb4b4b4Shared|r|cffffffffMedia|r
-## Author: Astral
+## Interface: 100007
+## Title: Astral |cffffffffShared|r|cff1eff00Media|r
+## Author: Terra
 ## Version: 1.9
 ## X-Curse-Project-ID: 628753
 ## X-Wago-ID: LvNA0BGo
