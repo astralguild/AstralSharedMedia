@@ -1,7 +1,7 @@
 ## Interface: 110000, 110002
 ## Title: Astral |cffffffffShared|r|cff1eff00Media|r
 ## Author: Terra
-## Version: 1.96
+## Version: 1.97
 ## X-Curse-Project-ID: 628753
 ## X-Wago-ID: LvNA0BGo
 
