@@ -1,7 +1,7 @@
 ## Interface: 120007, 120105
 ## Title: Astral |cffffffffShared|r|cff1eff00Media|r
 ## Author: Terra
-## Version: 1.106
+## Version: 1.107
 ## Category-enUS: |cffFF0000Astral|r Addons
 ## X-Curse-Project-ID: 628753
 ## X-Wago-ID: LvNA0BGo
