@@ -188,7 +188,7 @@ LSM:Register("sound", "|cffa335eeSMW Yoshi Ow|r", [[Interface\Addons\AstralShare
 
 -- Zelda Breath of the Wild
 LSM:Register("sound", "|cffa335eeZeldaBOTW Heart Container|r", [[Interface\Addons\AstralSharedMedia\sound\BOTW_Fanfare_HeartContainer.ogg]]) 
-LSM:Register("sound", "|cffa335eeZeldaBOTW Item|r", [[Interface\Addons\AstralSharedMedia\sound\BBOTW_Fanfare_Item.ogg]]) 
+LSM:Register("sound", "|cffa335eeZeldaBOTW Item|r", [[Interface\Addons\AstralSharedMedia\sound\BOTW_Fanfare_Item.ogg]]) 
 LSM:Register("sound", "|cffa335eeZeldaBOTW Item Small|r", [[Interface\Addons\AstralSharedMedia\sound\BOTW_Fanfare_SmallItem.ogg]]) 
 LSM:Register("sound", "|cffa335eeZeldaBOTW Spirit Orb|r", [[Interface\Addons\AstralSharedMedia\sound\BOTW_Fanfare_SpiritOrb.ogg]]) 
 LSM:Register("sound", "|cffa335eeZeldaBOTW Secret|r", [[Interface\Addons\AstralSharedMedia\sound\BOTW_Secret.ogg]]) 
